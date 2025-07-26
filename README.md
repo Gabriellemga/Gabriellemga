@@ -14,7 +14,7 @@
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecolab/googlecolab-original.svg"  width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg"  width="40" height="40"/> 
 <i class="devicon-github-original"></i>
-<link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
+<img src = link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
           
           
           
@@ -22,11 +22,13 @@
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original-wordmark.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg"  width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original.svg"  width="40" height="40"/>
 
+
 🤿 Data Analyst & Cientist in training;
 
 📚 In a serious relationship with Python and R, mainly in Data Science field, and also studying Business Intelligence (BI) in the Power BI software;
 
 👨🏽‍🍳 📚 I love cooking, traveling, watching movies, series, anime, and reading.
+
 
 <div>
 <a href="https://github.com/Gabriellemga">
