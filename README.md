@@ -8,8 +8,8 @@
 👨‍💻 Languages
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="30" height="30"/>  <img 
-src="http://www.w3.org/2000/svg" width="30" height="30"/> <img 
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/r/r-original.svg" width="30" height="30"/> 
+<img src="http://www.w3.org/2000/svg" width="30" height="30"/> 
           
 
 
