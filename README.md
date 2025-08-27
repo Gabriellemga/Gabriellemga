@@ -7,9 +7,14 @@
 
 👨‍💻 Languages
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="30" height="30"/>  <img 
-src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/r/r-original.svg" width="30" height="30"/> 
-<img src="http://www.w3.org/2000/svg" width="30" height="30"/> 
+<a href="https://www.python.org/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="30" height="30"/>
+</a>
+
+<a href="https://www.r-project.org/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/r/r-original.svg" width="30" height="30"/>
+</a>
+
           
 
 
