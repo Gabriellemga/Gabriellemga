@@ -13,21 +13,11 @@
 
 👨🏽‍🍳 📚 I love cooking, traveling, watching movies, series and reading.
 
-## 🛠️  My favorite tools
-
-👨‍💻 Languages
+## 🛠️  Skills
 
 <a href="https://www.python.org/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="30" height="30"/></a>
 <a href="https://www.r-project.org/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/r/r-original.svg" width="30" height="30"/> </a>
-
-💻 Software and tools
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecolab/googlecolab-original.svg"  width="30" height="30" />  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original-wordmark.svg"  width="30" height="30"/>  
-
-         
-🧰 Frameworks and libraries
-
-<a href="https://pandas.pydata.org/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original-wordmark.svg" width="30" height="30"/></a> <a href="https://numpy.org/" target="blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg"  width="30" height="30"/></a>  <a href="https://matplotlib.org/" target="_blank"> <img  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original.svg"  width="30" height="30"/></a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" height="30" width="30"/> </a> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecolab/googlecolab-original.svg"  width="30" height="30" />  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original-wordmark.svg"  width="30" height="30"/>  <a href="https://pandas.pydata.org/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original-wordmark.svg" width="30" height="30"/></a> <a href="https://numpy.org/" target="blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg"  width="30" height="30"/></a>  <a href="https://matplotlib.org/" target="_blank"> <img  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original.svg"  width="30" height="30"/></a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" height="30" width="30"/> </a> 
 
 
 ## Contatos:
